@@ -1,0 +1,19 @@
+[
+{
+        "id": "exo-custom-addon",
+        "version": "1.0.0",
+        "unstable": true,
+        "name": "Custom Add-on",
+        "description": "eXo custom extension",
+        "releaseDate": "2014-11-12T22:00:00.000Z",
+        "sourceUrl": "https://github.com/teknologist/exo-empty-extension",
+        "downloadUrl": "file:///home/exo/.m2/repository/org/exoplatform/archetype/empty-extension-packaging-addon/1.0.0-SNAPSHOT/empty-extension-packaging-addon-1.0.0-SNAPSHOT.zip",
+        "vendor": "eXo",
+        "license": "LGPLv3",
+        "licenseUrl": "https://www.gnu.org/licenses/lgpl-3.0.txt",
+        "mustAcceptLicense": false,
+        "supportedDistributions": "community,enterprise",
+        "supportedApplicationServers": "tomcat",
+        "compatibility": "[4.1.0-RC1,)"
+    }
+]
